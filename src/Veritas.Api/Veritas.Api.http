@@ -1,0 +1,6 @@
+@Veritas.Api_HostAddress = http://localhost:5249
+
+GET {{Veritas.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Veritas.Api/Veritas.Api.csproj" />
+    <Project Path="src/Veritas.Application/Veritas.Application.csproj" />
+    <Project Path="src/Veritas.Domain/Veritas.Domain.csproj" />
+    <Project Path="src/Veritas.Infrastructure/Veritas.Infrastructure.csproj" />
+  </Folder>
+</Solution>
