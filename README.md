@@ -1,19 +1,17 @@
 <div align="center">
+<img src="veritas-banner.png" alt="Veritas: data you can trust" width="100%">
 
-<img src="Image.jpg" alt="Veritas logo" width="220">
 
-# Veritas
 
-**Data you can trust.**
+
 
 A .NET and SQL Server platform that ingests raw, malformed records, repairs them with versioned rules, and publishes an auditable dimensional dataset, without ever destroying the original data.
 
-<!-- Add badges once they exist, for example the CI status:
-[![CI](https://github.com/Mthwane/Veritas/actions/workflows/ci.yml/badge.svg)](https://github.com/Mthwane/Veritas/actions)
--->
+
 ![Status](https://img.shields.io/badge/status-in%20development-orange)
-![.NET](https://img.shields.io/badge/.NET-ASP.NET%20Core-512BD4)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-2022-CC2927)
+[![.NET](https://img.shields.io/badge/.NET-ASP.NET%20Core-512BD4)](https://dotnet.microsoft.com/)
+[![SQL Server](https://img.shields.io/badge/SQL%20Server-2022-CC2927)](https://www.microsoft.com/sql-server)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Okuhle%20Malishe-0A66C2)](https://www.linkedin.com/in/okuhle-malishe-6b6994410/)
 
 </div>
 
